@@ -1,7 +1,8 @@
 # Hello there 👋🏾; I'm Bankole Temitope
+
  😊 I'm passionate about learning and sharing knowledge
  
-[![Linkedin Badge](https://img.shields.io/badge/-bankole-temitope-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bankole-temitope-ba7556224)](https://www.linkedin.com/in/bankole-temitope-ba7556224) 
+[![Linkedin Page](https://img.shields.io/badge/-bankole-temitope-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bankole-temitope-ba7556224)](https://www.linkedin.com/in/bankole-temitope-ba7556224) 
 
 ---
 
